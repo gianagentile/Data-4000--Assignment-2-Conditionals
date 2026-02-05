@@ -1,5 +1,5 @@
 # Data-4000--Assignment-2-Conditionals
-Every 3 problems use conditional logic like if, elif, and else to solve the business scenarios given. 
+All 3-problem use conditional logic like if, elif, and else to solve the business scenarios given. 
 
 Problem 1 
 The code determines the discount a customer receives based on their membership status and purchase amount. The membership status (yes/no) is case sensitive, and it correctly displays the discount % and final price after the discount. 
